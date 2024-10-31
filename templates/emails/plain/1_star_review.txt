@@ -1,0 +1,7 @@
+Hi *|FNAME|*,
+
+I'm sorry that you rated your experience *|STARRATING|* stars.
+
+In a perfect world, this would not have happened.  Can you spare a few minutes to let me know where I went wrong and what I can do to make it right?
+
+Kind Regards

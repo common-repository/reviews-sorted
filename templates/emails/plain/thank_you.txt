@@ -1,0 +1,11 @@
+Hi *|FNAME|*,
+
+Thank you so much for rating your experience with us at *|SITENAME|*, *|STARRATING|* stars.
+
+As a valued customer, your review and feedback are important to us as we strive to improve our processes and deliver a better service to you.
+
+Just as important are positive reviews on our social media :)
+
+Kind Regards
+
+Mike
